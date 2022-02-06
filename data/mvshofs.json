@@ -1,0 +1,33 @@
+[
+  {
+    "date": "2022-04-09T04:00:00.000Z",
+    "track": "Mahoning Valley Speedway",
+    "description": "Bill Teel Tribute",
+    "laps": "64",
+    "series": "MVSHOFS"
+  },
+  {
+    "date": "2022-06-11T04:00:00.000Z",
+    "track": "Mahoning Valley Speedway",
+    "description": "Ward Crozier Sr.",
+    "laps": "50",
+    "series": "MVSHOFS"
+  },
+  {
+    "date": "2022-07-16T04:00:00.000Z",
+    "track": "Mahoning Valley Speedway",
+    "description": "Roger Heffelfinger Sr.",
+    "laps": "66",
+    "series": "MVSHOFS"
+  },
+  {
+    "date": "2022-08-06T04:00:00.000Z",
+    "track": "Mahoning Valley Speedway",
+    "series": "MVSHOFS"
+  },
+  {
+    "date": "2022-09-10T04:00:00.000Z",
+    "track": "Mahoning Valley Speedway",
+    "series": "MVSHOFS"
+  }
+]
