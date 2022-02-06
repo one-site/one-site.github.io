@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2022-03-05T05:00:00.000Z",
+    "track": "Florence Motor Speedway",
+    "series": "SMART"
+  },
+  {
+    "date": "2022-03-19T05:00:00.000Z",
+    "track": "Southern National Speedway",
+    "series": "SMART"
+  },
+  {
+    "date": "2022-03-26T05:00:00.000Z",
+    "track": "Caraway Speedway",
+    "series": "SMART"
+  },
+  {
+    "date": "2022-04-02T05:00:00.000Z",
+    "track": "South Boston Speedway",
+    "series": "SMART"
+  },
+  {
+    "date": "2022-04-10T04:00:00.000Z",
+    "track": "Franklin County Speedway",
+    "series": "SMART"
+  },
+  {
+    "date": "2022-06-29T05:00:00.000Z",
+    "track": "Caraway Speedway",
+    "series": "SMART"
+  },
+  {
+    "date": "2022-09-03T04:00:00.000Z",
+    "track": "Carteret County Speedway",
+    "series": "SMART"
+  },
+  {
+    "date": "2022-09-10T04:00:00.000Z",
+    "track": "Orange County Fair Speedway",
+    "series": "SMART"
+  },
+  {
+    "date": "2022-09-17T04:00:00.000Z",
+    "track": "Dominion Speedway",
+    "series": "SMART"
+  },
+  {
+    "date": "2022-10-01T04:00:00.000Z",
+    "track": "Motor Mile Speedway",
+    "series": "SMART"
+  },
+  {
+    "date": "2022-10-08T04:00:00.000Z",
+    "track": "Hickory Motor Speedway",
+    "series": "SMART"
+  },
+  {
+    "date": "2022-10-15T04:00:00.000Z",
+    "track": "Tri-County Speedway",
+    "series": "SMART"
+  }
+]
