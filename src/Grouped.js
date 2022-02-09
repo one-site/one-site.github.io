@@ -19,16 +19,11 @@ const Grouped = () => {
   let body = b({
     height: '100%',
     width: '100%',
-    // 'overflow-y': 'auto',
   }).class
 
   let grid = b({
-    //height: '100%',
-    //width: '100%',
-    //'overflow-y': 'auto',
     'display': 'grid',
     'grid-template-columns': '1fr 1fr 1fr 1fr',
-    //'grid-auto-rows': '50px'
     'overflow-y': 'auto',
     height: '100%'
   }).class
