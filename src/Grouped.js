@@ -47,6 +47,7 @@ const Grouped = () => {
   document.body.classList.add(body)
 
   let rowsCount = 1
+  let currentMonth = new Date().getMonth()
 
   return {
 
@@ -55,8 +56,13 @@ const Grouped = () => {
       return m(`div.${grid}`, Object.keys(nestedData)
         .map((it, row) => {
 
+          let theMonth = parseISO(it).getMonth()
+
           let _area1 = b({
-            'background-color': 'lightgrey',
+            'background-color': m.cls({
+              'lightgrey': !(theMonth === currentMonth),
+              'palegreen': theMonth === currentMonth,
+            }),
             'grid-area': `${rowsCount}/1/${rowsCount + 1}/-1`,
             position: 'sticky',
             top: 0,
