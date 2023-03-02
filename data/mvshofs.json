@@ -1,29 +1,28 @@
 [
   {
-    "date": "2022-06-25T04:00:00.000Z",
+    "date": "2023-05-21",
     "track": "Mahoning Valley Speedway",
-    "description": "Bill Teel Tribute",
+    "description": "Wanick",
     "laps": "64",
     "series": "MVSHOFS"
   },
   {
-    "date": "2022-05-22T04:00:00.000Z",
+    "date": "2023-06-24",
     "track": "Mahoning Valley Speedway",
-    "description": "Bill Teel Tribute",
-    "laps": "64",
-    "series": "MVS"
+    "description": "",
+    "series": "MVSHOFS"
   },
   {
-    "date": "2022-06-11T04:00:00.000Z",
+    "date": "2023-07-15",
     "track": "Mahoning Valley Speedway",
-    "description": "Ward Crozier Sr.",
+    "description": "",
     "laps": "50",
     "series": "MVSHOFS"
   },
   {
-    "date": "2022-07-16T04:00:00.000Z",
+    "date": "2023-09-23",
     "track": "Mahoning Valley Speedway",
-    "description": "Roger Heffelfinger Sr.",
+    "description": "",
     "laps": "66",
     "series": "MVSHOFS"
   },

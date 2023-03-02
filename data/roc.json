@@ -1,42 +1,67 @@
 [
   {
-    "date": "2022-05-07T04:00:00.000Z",
-    "track": "Chemung Speedrome",
-    "description": "RoC Modifieds at Chemung"
+    "date": "2023-04-08",
+    "track": "Mahoning Valley",
+    "description": "Opening Night at Mahoning"
   },
   {
-    "date": "2022-06-11T04:00:00.000Z",
-    "track": "CANCELLED - Lorrain County",
-    "description": "RoC Modifieds"
-  },
-  {
-    "date": "2022-06-03T04:00:00.000Z",
-    "track": "Spencer Speedway",
-    "description": "RoC Modifieds"
-  },
-  {
-    "date": "2022-07-01T04:00:00.000Z",
-    "track": "Spencer Speedway",
-    "description": "RoC Modifieds"
-  },
-  {
-    "date": "2022-07-30T04:00:00.000Z",
-    "track": "Holland International Speedway",
-    "description": "RoC Modifieds"
-  },
-  {
-    "date": "2022-08-20T04:00:00.000Z",
-    "track": "Chemung Speedrome",
-    "description": "RoC Modifieds at Chemung"
-  },
-  {
-    "date": "2022-09-02T04:00:00.000Z",
-    "track": "Spencer Speedway",
-    "description": "RoC Modifieds"
-  },
-  {
-    "date": "2022-09-25T04:00:00.000Z",
+    "date": "2023-04-22",
     "track": "Lake Erie Speedway",
+    "description": "72nd Annual Lucas Oil Race of Champions 250"
+  },
+  {
+    "date": "2023-05-13",
+    "track": "Chemung Speedrome",
+    "description": "RoC Modifieds at Chemung"
+  },
+  {
+    "date": "2023-06-03",
+    "track": "Lorain Raceway Park",
     "description": "RoC Modifieds"
+  },
+  {
+    "date": "2023-06-09",
+    "track": "Spencer Speedway",
+    "description": "RoC Modifieds"
+  },
+  {
+    "date": "2023-06-29",
+    "track": "Lancaster Speedway",
+    "description": "RoC Modifieds"
+  },
+  {
+    "date": "2023-07-29",
+    "track": "Holland International Speedway",
+    "description": "Thunder in the Hills"
+  },
+  {
+    "date": "2023-08-04",
+    "track": "Spencer Speedway",
+    "description": "Whittaker Ford F-50"
+  },
+  {
+    "date": "2023-08-12",
+    "track": "Lancaster Speedway",
+    "description": "Tommy Druar/Tony Jankowiak Memorial 110"
+  },
+  {
+    "date": "2023-08-19",
+    "track": "Chemung Speedrome",
+    "description": "RoC Modifieds at Chemung"
+  },
+  {
+    "date": "2023-09-01",
+    "track": "Spencer Speedway",
+    "description": "Maynard Troyer Classic IV"
+  },
+  {
+    "date": "2023-09-17",
+    "track": "Lake Erie Speedway",
+    "description": "73rd Annual Lucas Oil Race of Champions 250"
+  },
+  {
+    "date": "2023-09-24",
+    "track": "Lancaster Speedway",
+    "description": "35th Annual US Open"
   }
 ]

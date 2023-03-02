@@ -1,82 +1,97 @@
 [
   {
     "series": "NWMT",
-    "date": "2022-02-12T05:00:00.000Z",
+    "date": "2023-02-11",
     "track": "New Smyrna Speedway"
   },
   {
     "series": "NWMT",
-    "date": "2022-04-01T04:00:00.000Z",
+    "date": "2023-03-31",
     "track": "Richmond Raceway"
   },
   {
     "series": "NWMT",
-    "date": "2022-05-14T04:00:00.000Z",
-    "track": "Riverhead Raceway"
-  },
-  {
-    "series": "NWMT",
-    "date": "2022-05-21T04:00:00.000Z",
-    "track": "Lee USA Speedway"
-  },
-  {
-    "series": "NWMT",
-    "date": "2022-05-28T04:00:00.000Z",
-    "track": "Jennerstown Speedway"
-  },
-  {
-    "series": "NWMT",
-    "date": "2022-06-18T04:00:00.000Z",
+    "date": "2023-05-06",
     "track": "Monadnock Speedway"
   },
   {
     "series": "NWMT",
-    "date": "2022-06-25T04:00:00.000Z",
+    "date": "2023-05-20",
     "track": "Riverhead Raceway"
   },
   {
     "series": "NWMT",
-    "date": "2022-07-09T04:00:00.000Z",
+    "date": "2023-05-27",
+    "track": "Lee USA Speedway"
+  },
+  {
+    "series": "NWMT",
+    "date": "2023-06-10",
+    "track": "Seekonk Speedway"
+  },
+  {
+    "series": "NWMT",
+    "date": "2023-06-24",
+    "track": "Riverhead Raceway"
+  },
+  {
+    "series": "NWMT",
+    "date": "2023-07-08",
     "track": "Wall Stadium"
   },
   {
     "series": "NWMT",
-    "date": "2022-07-16T04:00:00.000Z",
+    "date": "2023-07-15",
     "track": "New Hampshire Motor Speedway"
   },
   {
     "series": "NWMT",
-    "date": "2022-07-29T04:00:00.000Z",
+    "date": "2023-07-29",
     "track": "Claremont Motorsports Park"
   },
   {
     "series": "NWMT",
-    "date": "2022-08-17T04:00:00.000Z",
+    "date": "2023-08-05",
+    "track": "Lancaster Motorplex"
+  },
+  {
+    "series": "NWMT",
+    "date": "2023-08-16",
     "track": "Thompson Speedway"
   },
   {
     "series": "NWMT",
-    "date": "2022-08-27T04:00:00.000Z",
+    "date": "2023-08-26",
     "track": "Langley Speedway"
   },
   {
     "series": "NWMT",
-    "date": "2022-09-03T04:00:00.000Z",
+    "date": "2023-09-02",
     "track": "Oswego Speedway"
   },
   {
     "series": "NWMT",
-    "date": "2022-09-17T04:00:00.000Z",
+    "date": "2023-09-09",
+    "track": "Monadnock Speedway"
+  },
+  {
+    "series": "NWMT",
+    "date": "2023-09-16",
     "track": "Riverhead Raceway"
   },
   {
     "series": "NWMT",
-    "date": "2022-10-08T04:00:00.000Z",
+    "date": "2023-09-30",
+    "track": "North Wilkesboro Speedway"
+  },
+  {
+    "series": "NWMT",
+    "date": "2023-10-08",
     "track": "Thompson Speedway"
   },
   {
     "series": "NWMT",
-    "date": "2022-10-27T04:00:00.000Z",
+    "date": "2023-10-26",
     "track": "Martinsville Speedway"
   }
 ]
