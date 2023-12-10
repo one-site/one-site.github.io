@@ -1,72 +1,78 @@
 [
   {
-    "date": "2023-03-04",
-    "track": "Florence Motor Speedway",
+    "date": "2024-03-02",
+    "track": "Florence Motor Speedway, SC - Low Country 99",
     "series": "SMART"
   },
   {
-    "date": "2023-03-12",
-    "track": "Caraway Speedway",
+    "date": "2024-03-10",
+    "track": "Caraway Speedway, NC - Warrior 99",
     "series": "SMART"
   },
   {
-    "date": "2023-03-18",
-    "track": "Lonesome Pine Speedway",
+    "date": "2024-03-23",
+    "track": "South Boston Speedway, VA - King of the Modifieds",
     "series": "SMART"
   },
   {
-    "date": "2023-04-01",
-    "track": "South Boston Speedway",
+    "date": "2024-03-30",
+    "track": "Tri-County Speedway, NC - Cardinal 99",
     "series": "SMART"
   },
   {
-    "date": "2023-04-15",
-    "track": "Hickory Motor Speedway",
+    "date": "2024-04-06",
+    "track": "Orange Co. Speedway, NC - ​The Rumble in Rougemont",
     "series": "SMART"
   },
   {
-    "date": "2023-05-26",
-    "track": "Franklin County Speedway",
+    "date": "2024-04-13",
+    "track": "Hickory Motor Speedway, NC - The Hickory Hundred",
     "series": "SMART"
   },
   {
-    "date": "2023-06-23",
-    "track": "Ace Speedway",
+    "date": "2024-05-24",
+    "track": "Franklin Co. Speedway, VA - Kenny Minter Classic",
     "series": "SMART"
   },
   {
-    "date": "2023-07-01",
-    "track": "Caraway Speedway",
+    "date": "2024-07-06",
+    "track": "Caraway Speedway, NC - Revolutionary 99",
     "series": "SMART"
   },
   {
-    "date": "2023-09-02",
-    "track": "Carteret County Speedway",
+    "date": "2024-08-30",
+    "track": "New River All-American Speedway, NC - Pace-O-Matic 99",
     "series": "SMART"
   },
   {
-    "date": "2023-09-09",
-    "track": "Dominion Speedway",
+    "date": "2024-08-31",
+    "track": "Carteret Co. Speedway, NC - The Carteret Clash",
     "series": "SMART"
   },
   {
-    "date": "2023-10-01",
-    "track": "Motor Mile Speedway",
+    "date": "2024-09-07",
+    "track": "Caraway Speedway, NC - Robert Jeffreys Memorial",
     "series": "SMART"
   },
   {
-    "date": "2023-10-07",
-    "track": "Tri-County Speedway",
+    "date": "2024-09-14",
+    "track": "Dominion Raceway, VA - The Flying VA Classic",
     "series": "SMART"
   },
   {
-    "date": "2023-10-14",
-    "track": "Rockinghan Speedway",
+    "date": "2024-09-18",
+    "track": "Lonesome Pine Speedway, VA - The Mod Squad Nationals",
     "series": "SMART"
   },
   {
-    "date": "2023-10-28",
-    "track": "Orange County Speeday",
+    "date": "2024-10-12",
+    "track": "Little Rock, NC - Wild Bill's Bash",
+    "series": "SMART"
+  },
+  {
+    "date": "2024-10-19",
+    "track": "North Wilkesboro Speedway, NC - Championship Finale",
     "series": "SMART"
   }
 ]
+
