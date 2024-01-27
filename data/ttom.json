@@ -1,44 +1,58 @@
 [
   {
-    "date": "2022-04-30T04:00:00.000Z",
-    "track": "Monadnock Speedway",
-    "description": "Monadnock 100",
-    "laps": "100 laps"
+    "date": "2024-04-06",
+    "track": "Thompson Speedway Motorsports Park",
+    "location": "Thompson, CT",
+    "description": "TBA",
+    "laps": 75
   },
   {
-    "date": "2023-05-28",
-    "track": "Thunder Road",
-    "description": "Prelude to SBM X",
-    "laps": "100 laps "
+    "date": "2024-05-26",
+    "track": "Thunder Road Int'l. Speedbowl",
+    "location": "Barre, VT",
+    "description": "Granite City 100",
+    "laps": 100
   },
   {
-    "date": "2023-06-28",
+    "date": "2024-06-26",
     "track": "Seekonk Speedway",
-    "description": "Open Wheel Wednesday $10K",
-    "laps": "100 laps"
+    "location": "Seekonk, MA",
+    "description": "Open Wheel Wednesday",
+    "laps": 100
   },
   {
-    "date": "2023-07-22",
+    "date": "2024-07-27",
+    "track": "White Mountain Motorsports Park",
+    "location": "North Woodstock, NH",
+    "description": "TBA",
+    "laps": "TBA"
+  },
+  {
+    "date": "2024-08-10",
+    "track": "New London-Waterford Speedbowl",
+    "location": "Waterford, CT",
+    "description": "TBA",
+    "laps": 100
+  },
+  {
+    "date": "2024-09-15",
     "track": "Star Speedway",
-    "description": "SBM X",
-    "laps": "125 laps"
+    "location": "Epping, NH",
+    "description": "TBA",
+    "laps": 125
   },
   {
-    "date": "2023-08-12",
-    "track": "Waterford Speedbowl",
-    "description": " ",
-    "laps": "100 laps"
-  },
-  {
-    "date": "2023-09-23",
+    "date": "2024-09-28",
     "track": "Stafford Motor Speedway",
-    "description": " ",
-    "laps": "100 laps"
+    "location": "Stafford Springs, CT",
+    "description": "NAPA Auto Parts Fall Final",
+    "laps": 80
   },
   {
-    "date": "2023-10-23",
-    "track": "Waterford Speedbowl",
-    "description": "",
-    "laps": "100 laps "
+    "date": "2024-11-02",
+    "track": "Seekonk Speedway",
+    "location": "Seekonk, MA",
+    "description": "Haunted Hundred",
+    "laps": 100
   }
 ]
