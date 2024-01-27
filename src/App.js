@@ -2,7 +2,9 @@ import m from "mithril";
 import get from 'lodash-es/get'
 import groupBy from 'lodash-es/groupBy'
 import mapValues from 'lodash-es/mapValues'
+import "fomantic-ui-css/semantic.css";
 
+import "m-dot-nav";
 import Grouped from "./Grouped";
 
 import {format, parseISO, startOfMonth, differenceInCalendarDays} from 'date-fns'
