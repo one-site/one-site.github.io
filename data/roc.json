@@ -1,67 +1,50 @@
 [
   {
-    "date": "2023-04-08",
-    "track": "Mahoning Valley",
-    "description": "Opening Night at Mahoning"
-  },
-  {
-    "date": "2023-04-22",
+    "date": "2024-04-13",
     "track": "Lake Erie Speedway",
-    "description": "72nd Annual Lucas Oil Race of Champions 250"
+    "description": "72nd Annual Lucas Oil Race of Champions 250",
+    "detailsLink": "/schedules/event/488379"
   },
   {
-    "date": "2023-05-13",
+    "date": "2024-05-11",
     "track": "Chemung Speedrome",
-    "description": "RoC Modifieds at Chemung"
+    "description": "RoC Modifieds at Chemung",
+    "detailsLink": "/schedules/event/488385"
   },
   {
-    "date": "2023-06-03",
-    "track": "Lorain Raceway Park",
-    "description": "RoC Modifieds"
-  },
-  {
-    "date": "2023-06-09",
-    "track": "Spencer Speedway",
-    "description": "RoC Modifieds"
-  },
-  {
-    "date": "2023-06-29",
+    "date": "2024-06-27",
     "track": "Lancaster Speedway",
-    "description": "RoC Modifieds"
+    "description": "Ol' Boy Cup VIII",
+    "detailsLink": "/schedules/event/488874"
   },
   {
-    "date": "2023-07-29",
+    "date": "2024-07-27",
     "track": "Holland International Speedway",
-    "description": "Thunder in the Hills"
+    "description": "Thunder in the Hills 100",
+    "detailsLink": "/schedules/event/488424"
   },
   {
-    "date": "2023-08-04",
+    "date": "2024-08-02",
     "track": "Spencer Speedway",
-    "description": "Whittaker Ford F-50"
+    "description": "Whittaker Ford F-50",
+    "detailsLink": "/schedules/event/489132"
   },
   {
-    "date": "2023-08-12",
-    "track": "Lancaster Speedway",
-    "description": "Tommy Druar/Tony Jankowiak Memorial 110"
-  },
-  {
-    "date": "2023-08-19",
+    "date": "2024-08-10",
     "track": "Chemung Speedrome",
-    "description": "RoC Modifieds at Chemung"
+    "description": "Rod Spalding Classic",
+    "detailsLink": "/schedules/event/488388"
   },
   {
-    "date": "2023-09-01",
-    "track": "Spencer Speedway",
-    "description": "Maynard Troyer Classic IV"
-  },
-  {
-    "date": "2023-09-17",
-    "track": "Lake Erie Speedway",
-    "description": "73rd Annual Lucas Oil Race of Champions 250"
-  },
-  {
-    "date": "2023-09-24",
+    "date": "2024-08-17",
     "track": "Lancaster Speedway",
-    "description": "35th Annual US Open"
+    "description": "35th Annual Tommy Druar/Tony Jankowiak 110",
+    "detailsLink": "/schedules/event/488877"
+  },
+  {
+    "date": "2024-08-30",
+    "track": "Spencer Speedway",
+    "description": "Maynard Troyer Classic V",
+    "detailsLink": "/schedules/event/489135"
   }
 ]
