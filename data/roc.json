@@ -6,10 +6,20 @@
     "detailsLink": "/schedules/event/488379"
   },
   {
+    "date": "2024-04-20",
+    "track": "Mahoning Valley Speedway",
+    "description": "RoC Modifieds at Mahoning Valley"
+  },
+  {
     "date": "2024-05-11",
     "track": "Chemung Speedrome",
     "description": "RoC Modifieds at Chemung",
     "detailsLink": "/schedules/event/488385"
+  },
+  {
+    "date": "2024-05-19",
+    "track": "Mahoning Valley Speedway",
+    "description": "RoC Modifieds at Mahoning Valley"
   },
   {
     "date": "2024-06-27",
@@ -55,6 +65,18 @@
   },
   {
     "date": "2024-09-20",
+    "track": "Lake Erie Speedway",
+    "description": "74th Annual Lucas Oil Race of Champions 250",
+    "detailsLink": "/schedules/event/488382"
+  },
+  {
+    "date": "2024-09-21",
+    "track": "Lake Erie Speedway",
+    "description": "74th Annual Lucas Oil Race of Champions 250",
+    "detailsLink": "/schedules/event/488382"
+  },
+  {
+    "date": "2024-09-22",
     "track": "Lake Erie Speedway",
     "description": "74th Annual Lucas Oil Race of Champions 250",
     "detailsLink": "/schedules/event/488382"
