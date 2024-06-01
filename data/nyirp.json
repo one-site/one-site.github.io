@@ -1,22 +1,17 @@
 [
   {
-    "date": "2022-06-04T05:00:00.000Z",
-    "track": "CANCELLED - New York IRP",
-    "series": "NYIRP"
+    "date": "2024-07-13",
+    "track": "Lancaster Motorplex",
+    "series": "OPNM-LM"
   },
   {
-    "date": "2022-06-11T05:00:00.000Z",
+    "date": "2024-09-07",
     "track": "Lancaster Motorplex",
-    "series": "ROC"
+    "series": "OPNM-LM"
   },
   {
-    "date": "2022-08-13T05:00:00.000Z",
+    "date": "2024-09-27",
     "track": "Lancaster Motorplex",
-    "series": "ROC"
-  },
-  {
-    "date": "2022-09-11T05:00:00.000Z",
-    "track": "Lancaster Motorplex",
-    "series": "ROC"
+    "series": "OPNM-LM"
   }
 ]
