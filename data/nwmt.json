@@ -1,82 +1,82 @@
 [
   {
     "series": "NWMT",
-    "date": "2024-02-10",
+    "date": "2025-02-08",
     "track": "New Smyrna Speedway"
   },
   {
     "series": "NWMT",
-    "date": "2024-03-29",
-    "track": "Richmond Raceway"
+    "date": "2025-03-30",
+    "track": "Thompson Speedway Motorsports Park"
   },
   {
     "series": "NWMT",
-    "date": "2024-04-07",
-    "track": "Thompson Motorsports Park"
-  },
-  {
-    "series": "NWMT",
-    "date": "2024-05-04",
+    "date": "2025-05-03",
     "track": "Monadnock Speedway"
   },
   {
     "series": "NWMT",
-    "date": "2024-05-18",
-    "track": "Riverhead Raceway"
-  },
-  {
-    "series": "NWMT",
-    "date": "2024-06-01",
-    "track": "Seekonk Speedway"
-  },
-  {
-    "series": "NWMT",
-    "date": "2024-06-22",
-    "track": "New Hampshire Motor Speedway"
-  },
-  {
-    "series": "NWMT",
-    "date": "2024-07-20",
-    "track": "Monadnock Speedway"
-  },
-  {
-    "series": "NWMT",
-    "date": "2024-08-03",
-    "track": "Lancaster Motorplex"
-  },
-  {
-    "series": "NWMT",
-    "date": "2024-08-14",
-    "track": "Thompson Motorsports Park"
-  },
-  {
-    "series": "NWMT",
-    "date": "2024-08-31",
-    "track": "Oswego Speedway"
-  },
-  {
-    "series": "NWMT",
-    "date": "2024-09-14",
-    "track": "Riverhead Raceway"
-  },
-  {
-    "series": "NWMT",
-    "date": "2024-09-21",
-    "track": "Monadnock Speedway"
-  },
-  {
-    "series": "NWMT",
-    "date": "2024-10-05",
+    "date": "2025-05-18",
     "track": "North Wilkesboro Speedway"
   },
   {
     "series": "NWMT",
-    "date": "2024-10-13",
-    "track": "Thompson Motorsports Park"
+    "date": "2025-05-31",
+    "track": "Seekonk Speedway"
   },
   {
     "series": "NWMT",
-    "date": "2024-10-26",
+    "date": "2025-06-14",
+    "track": "Riverhead Raceway"
+  },
+  {
+    "series": "NWMT",
+    "date": "2025-06-28",
+    "track": "White Mountain Motorsports Park"
+  },
+  {
+    "series": "NWMT",
+    "date": "2025-07-12",
+    "track": "Lancaster Motorplex"
+  },
+  {
+    "series": "NWMT",
+    "date": "2025-07-19",
+    "track": "Monadnock Speedway"
+  },
+  {
+    "series": "NWMT",
+    "date": "2025-08-06",
+    "track": "Thompson Speedway Motorsports Park"
+  },
+  {
+    "series": "NWMT",
+    "date": "2025-08-14",
+    "track": "Richmond Raceway"
+  },
+  {
+    "series": "NWMT",
+    "date": "2025-08-30",
+    "track": "Oswego Speedway"
+  },
+  {
+    "series": "NWMT",
+    "date": "2025-09-06",
+    "track": "Riverhead Raceway"
+  },
+  {
+    "series": "NWMT",
+    "date": "2025-09-20",
+    "track": "New Hampshire Motor Speedway"
+  },
+  {
+    "series": "NWMT",
+    "date": "2025-10-12",
+    "track": "Thompson Speedway Motorsports Park"
+  },
+  {
+    "series": "NWMT",
+    "date": "2025-10-18",
     "track": "Martinsville Speedway"
   }
 ]
