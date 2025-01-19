@@ -1,58 +1,72 @@
 [
   {
-    "date": "2024-04-06",
-    "track": "Thompson Motorsports Park",
+    "date": "2025-03-29",
+    "track": "Thompson Speedway Motorsports Park",
     "location": "Thompson, CT",
-    "description": "TBA",
-    "laps": 75
-  },
-  {
-    "date": "2024-05-26",
-    "track": "Thunder Road Int'l. Speedbowl",
-    "location": "Barre, VT",
-    "description": "Granite City 100",
-    "laps": 100
-  },
-  {
-    "date": "2024-06-26",
-    "track": "Seekonk Speedway",
-    "location": "Seekonk, MA",
-    "description": "Open Wheel Wednesday",
-    "laps": 100
-  },
-  {
-    "date": "2024-07-27",
-    "track": "White Mountain Motorsports Park",
-    "location": "North Woodstock, NH",
-    "description": "TBA",
+    "event": "TBA",
     "laps": "TBA"
   },
   {
-    "date": "2024-08-10",
-    "track": "New London-Waterford Speedbowl",
-    "location": "Waterford, CT",
-    "description": "TBA",
-    "laps": 100
+    "date": "2025-05-14",
+    "track": "Thompson Speedway Motorsports Park",
+    "location": "Thompson, CT",
+    "event": "TBA",
+    "laps": "TBA"
   },
   {
-    "date": "2024-09-15",
-    "track": "Star Speedway",
-    "location": "Epping, NH",
-    "description": "TBA",
-    "laps": 125
+    "date": "2025-05-25",
+    "track": "Thunder Road Int'l. Speedbowl",
+    "location": "Barre, VT",
+    "event": "TBA",
+    "laps": "TBA"
   },
   {
-    "date": "2024-09-28",
-    "track": "Stafford Motor Speedway",
-    "location": "Stafford Springs, CT",
-    "description": "NAPA Auto Parts Fall Final",
-    "laps": 80
+    "date": "2025-06-07",
+    "track": "White Mountain Motorsports Park",
+    "location": "North Woodstock, NH",
+    "event": "TBA",
+    "laps": "TBA"
   },
   {
-    "date": "2024-11-02",
+    "date": "2025-06-25",
     "track": "Seekonk Speedway",
     "location": "Seekonk, MA",
-    "description": "Haunted Hundred",
-    "laps": 100
+    "event": "TBA",
+    "laps": "TBA"
+  },
+  {
+    "date": "2025-07-16",
+    "track": "Stafford Motor Speedway",
+    "location": "Stafford Springs, CT",
+    "event": "GAF Roofing Modified Masters",
+    "laps": "80"
+  },
+  {
+    "date": "2025-08-02",
+    "track": "Star Speedway",
+    "location": "Epping, NH",
+    "event": "TBA",
+    "laps": "125"
+  },
+  {
+    "date": "2025-08-23",
+    "track": "New London-Waterford Speedbowl",
+    "location": "Waterford, CT",
+    "event": "TBA",
+    "laps": "TBA"
+  },
+  {
+    "date": "2025-09-27",
+    "track": "Stafford Motor Speedway",
+    "location": "Stafford Springs, CT",
+    "event": "NAPA Auto Parts Fall Final",
+    "laps": "80"
+  },
+  {
+    "date": "2025-10-25",
+    "track": "Seekonk Speedway",
+    "location": "Seekonk, MA",
+    "event": "USNEPower Haunted Hundred XL",
+    "laps": "TBA"
   }
 ]
