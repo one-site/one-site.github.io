@@ -1,5 +1,47 @@
 [
   {
+    "date": "2025-02-06",
+    "event": "Parking & Practice Day",
+    "details": "David Rogers Super Late Models, Hoosier Pro Late Models, Tour Modified, J&C Gradall Modifieds, Sportsman, E-Mod, Super Stocks, Ashley Homes JAX Trucks, Mod Minis, Black Jack Seal Coating Bomber A, Bomber B, Florida Southern Ground Pounders, 602 Tour Modifieds",
+    "track": "New Smyrna Speedway"
+  },
+  {
+    "date": "2025-02-10",
+    "event": "World Series Night 4: Tour Mods Return",
+    "details": "Hoosier Pro Late Models, Tour Modified, J&C Gradall Modifieds, 602 Tour Modifieds",
+    "track": "New Smyrna Speedway"
+  },
+  {
+    "date": "2025-02-11",
+    "event": "World Series Night 5: ASA Stars National Tour 200",
+    "details": "Southern Super Series, Tour Modified, J&C Gradall Modifieds",
+    "track": "New Smyrna Speedway"
+  },
+  {
+    "date": "2025-02-12",
+    "event": "World Series Night 6: Hart to Heart Pro Late Model 100 & Blewett Memorial Tour Mod 76",
+    "details": "David Rogers Super Late Models, Hoosier Pro Late Models, Tour Modified, 602 Tour Modifieds",
+    "track": "New Smyrna Speedway"
+  },
+  {
+    "date": "2025-02-13",
+    "event": "World Series Night 7: Orange Blossom Super Late Model 100",
+    "details": "David Rogers Super Late Models, Hoosier Pro Late Models, Tour Modified, 602 Tour Modifieds",
+    "track": "New Smyrna Speedway"
+  },
+  {
+    "date": "2025-02-14",
+    "event": "World Series Night 8: Richie Evans Memorial Tour Mod 100",
+    "details": "Tour Modified, Mod Minis, Black Jack Seal Coating Bomber A, Florida Southern Ground Pounders",
+    "track": "New Smyrna Speedway"
+  },
+  {
+    "date": "2025-02-15",
+    "event": "World Series Night 9: Local Division Showcase",
+    "details": "E-Mod, Super Stocks, Ashley Homes JAX Trucks, Bomber B",
+    "track": "New Smyrna Speedway"
+  },
+  {
     "series": "NWMT",
     "date": "2025-02-08",
     "track": "New Smyrna Speedway"
