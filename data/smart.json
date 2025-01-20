@@ -2,71 +2,85 @@
   {
     "date": "2025-03-01",
     "track": "Florence Motor Speedway, SC",
-    "event": "ZACH BREWER MEMORIAL"
+    "event": "ZACH BREWER MEMORIAL",
+    "series": "SMART"
   },
   {
     "date": "2025-03-08",
     "track": "Anderson Motor Speedway, SC",
-    "event": "TBD"
+    "event": "TBD",
+    "series": "SMART"
   },
   {
     "date": "2025-03-22",
     "track": "South Boston Speedway",
-    "event": "KING OF THE MODIFIEDS"
+    "event": "KING OF THE MODIFIEDS",
+    "series": "SMART"
   },
   {
     "date": "2025-04-05",
     "track": "Orange Co. Speedway",
-    "event": "THE RUMBLE IN ROUGEMONT"
+    "event": "THE RUMBLE IN ROUGEMONT",
+    "series": "SMART"
   },
   {
     "date": "2025-04-12",
     "track": "Hickory Motor Speedway",
-    "event": "HICKORY HUNDRED"
+    "event": "HICKORY HUNDRED",
+    "series": "SMART"
   },
   {
     "date": "2025-05-23",
     "track": "Franklin Co. Speedway",
-    "event": "KENNY MINTER CLASSIC"
+    "event": "KENNY MINTER CLASSIC",
+    "series": "SMART"
   },
   {
     "date": "2025-07-05",
     "track": "Caraway Speedway",
-    "event": "REVOLUTIONARY 99"
+    "event": "REVOLUTIONARY 99",
+    "series": "SMART"
   },
   {
     "date": "2025-08-29",
     "track": "New River All-American Speedway",
-    "event": "PACE-O-MATIC 99"
+    "event": "PACE-O-MATIC 99",
+    "series": "SMART"
   },
   {
     "date": "2025-08-30",
     "track": "Carteret Co. Speedway",
-    "event": "THE CARTERET CLASH"
+    "event": "THE CARTERET CLASH",
+    "series": "SMART"
   },
   {
     "date": "2025-09-06",
     "track": "Caraway Speedway",
-    "event": "WARRIOR 100"
+    "event": "WARRIOR 100",
+    "series": "SMART"
   },
   {
     "date": "2025-09-13",
     "track": "Dominion Raceway",
-    "event": "THE FLYING VA CLASSIC"
+    "event": "THE FLYING VA CLASSIC",
+    "series": "SMART"
   },
   {
     "date": "2025-09-20",
     "track": "Lonesome Pine Speedway",
-    "event": "THE MOD SQUAD NATIONALS"
+    "event": "THE MOD SQUAD NATIONALS",
+    "series": "SMART"
   },
   {
     "date": "2025-10-11",
     "track": "Tri-County Speedway",
-    "event": "GARY FREEMAN HOOSIER 99"
+    "event": "GARY FREEMAN HOOSIER 99",
+    "series": "SMART"
   },
   {
     "date": "2025-10-18",
     "track": "North Wilkesboro Speedway",
-    "event": "CHAMPIONSHIP FINALE"
+    "event": "CHAMPIONSHIP FINALE",
+    "series": "SMART"
   }
 ]
