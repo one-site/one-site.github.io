@@ -1,78 +1,72 @@
 [
   {
-    "date": "2024-03-02",
-    "track": "Florence Motor Speedway",
-    "series": "SMART"
+    "date": "2025-03-01",
+    "track": "Florence Motor Speedway, SC",
+    "event": "ZACH BREWER MEMORIAL"
   },
   {
-    "date": "2024-03-10",
-    "track": "Caraway Speedway",
-    "series": "SMART"
+    "date": "2025-03-08",
+    "track": "Anderson Motor Speedway, SC",
+    "event": "TBD"
   },
   {
-    "date": "2024-03-23",
-    "track": "South Boston Speedway",
-    "series": "SMART"
+    "date": "2025-03-22",
+    "track": "South Boston Speedway, VA",
+    "event": "KING OF THE MODIFIEDS"
   },
   {
-    "date": "2024-03-30",
-    "track": "Tri-County Speedway",
-    "series": "SMART"
+    "date": "2025-04-05",
+    "track": "Orange Co. Speedway, NC",
+    "event": "THE RUMBLE IN ROUGEMONT"
   },
   {
-    "date": "2024-04-06",
-    "track": "Orange Co. Speedway",
-    "series": "SMART"
-  },
-  {
-    "date": "2024-04-13",
+    "date": "2025-04-12",
     "track": "Hickory Motor Speedway",
-    "series": "SMART"
+    "event": "HICKORY HUNDRED"
   },
   {
-    "date": "2024-05-24",
-    "track": "Franklin Co. Speedway",
-    "series": "SMART"
+    "date": "2025-05-23",
+    "track": "Franklin Co. Speedway, VA",
+    "event": "KENNY MINTER CLASSIC"
   },
   {
-    "date": "2024-07-06",
-    "track": "Caraway Speedway",
-    "series": "SMART"
+    "date": "2025-07-05",
+    "track": "Caraway Speedway, NC",
+    "event": "REVOLUTIONARY 99"
   },
   {
-    "date": "2024-08-30",
-    "track": "New River All-American Speedway",
-    "series": "SMART"
+    "date": "2025-08-29",
+    "track": "New River All-American Speedway, NC",
+    "event": "PACE-O-MATIC 99"
   },
   {
-    "date": "2024-08-31",
-    "track": "Carteret Co. Speedway",
-    "series": "SMART"
+    "date": "2025-08-30",
+    "track": "Carteret Co. Speedway, NC",
+    "event": "THE CARTERET CLASH"
   },
   {
-    "date": "2024-09-07",
-    "track": "Caraway Speedway",
-    "series": "SMART"
+    "date": "2025-09-06",
+    "track": "Caraway Speedway, NC",
+    "event": "WARRIOR 100"
   },
   {
-    "date": "2024-09-14",
-    "track": "Dominion Raceway",
-    "series": "SMART"
+    "date": "2025-09-13",
+    "track": "Dominion Raceway, VA",
+    "event": "THE FLYING VA CLASSIC"
   },
   {
-    "date": "2024-09-18",
-    "track": "Lonesome Pine Speedway",
-    "series": "SMART"
+    "date": "2025-09-20",
+    "track": "Lonesome Pine Speedway, VA",
+    "event": "THE MOD SQUAD NATIONALS"
   },
   {
-    "date": "2024-10-12",
-    "track": "Little Rock, NC",
-    "series": "SMART"
+    "date": "2025-10-11",
+    "track": "Tri-County Speedway, NC",
+    "event": "GARY FREEMAN HOOSIER 99"
   },
   {
-    "date": "2024-10-19",
-    "track": "North Wilkesboro Speedway",
-    "series": "SMART"
+    "date": "2025-10-18",
+    "track": "North Wilkesboro Speedway, NC",
+    "event": "CHAMPIONSHIP FINALE"
   }
 ]
-
