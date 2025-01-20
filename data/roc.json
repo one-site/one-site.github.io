@@ -1,84 +1,119 @@
 [
   {
-    "date": "2024-04-13",
+    "date": "2025-04-12",
+    "month": "Apr",
+    "day": "Saturday",
     "track": "Lake Erie Speedway",
-    "description": "72nd Annual Lucas Oil Race of Champions 250",
-    "detailsLink": "/schedules/event/488379"
+    "event": "72nd Annual Race of Champions 250",
+    "url": "/schedules/event/543840",
+    "series": "ROC"
   },
   {
-    "date": "2024-04-20",
+    "date": "2025-04-19",
+    "month": "Apr",
+    "day": "Saturday",
     "track": "Mahoning Valley Speedway",
-    "description": "RoC Modifieds at Mahoning Valley"
+    "event": "Spring Zing",
+    "url": "/schedules/event/543993",
+    "series": "ROC"
   },
   {
-    "date": "2024-05-11",
+    "date": "2025-05-10",
+    "month": "May",
+    "day": "Saturday",
     "track": "Chemung Speedrome",
-    "description": "RoC Modifieds at Chemung",
-    "detailsLink": "/schedules/event/488385"
+    "event": "May Flowers 75",
+    "url": "/schedules/event/541722",
+    "series": "ROC"
   },
   {
-    "date": "2024-05-19",
-    "track": "Mahoning Valley Speedway",
-    "description": "RoC Modifieds at Mahoning Valley"
+    "date": "2025-05-23",
+    "month": "May",
+    "day": "Friday",
+    "track": "Spencer Speedway",
+    "event": "35th Annual Tommy Druar/Tony Jankowiak 110",
+    "url": "/schedules/event/550725",
+    "series": "ROC"
   },
   {
-    "date": "2024-06-27",
+    "date": "2025-06-26",
+    "month": "Jun",
+    "day": "Thursday",
     "track": "Lancaster Speedway",
-    "description": "Ol' Boy Cup VIII",
-    "detailsLink": "/schedules/event/488874"
+    "event": "Ol' Boy Cup IX",
+    "url": "/schedules/event/543987",
+    "series": "ROC"
   },
   {
-    "date": "2024-07-13",
+    "date": "2025-07-05",
+    "month": "Jul",
+    "day": "Saturday",
     "track": "Evans Mills Speedway",
-    "description": "Summer Sizzler 80",
-    "detailsLink": "/schedules/event/519822"
+    "event": "Rocket 76er",
+    "url": "/schedules/event/543984",
+    "series": "ROC"
   },
   {
-    "date": "2024-07-27",
+    "date": "2025-07-11",
+    "month": "Jul",
+    "day": "Friday",
+    "track": "Spencer Speedway",
+    "event": "Whittaker Ford F-50",
+    "url": "/schedules/event/550731",
+    "series": "ROC"
+  },
+  {
+    "date": "2025-07-26",
+    "month": "Jul",
+    "day": "Saturday",
     "track": "Holland International Speedway",
-    "description": "Thunder in the Hills 100",
-    "detailsLink": "/schedules/event/488424"
+    "event": "Thunder in the Hills 100",
+    "url": "/schedules/event/541716",
+    "series": "ROC"
   },
   {
-    "date": "2024-08-02",
-    "track": "Spencer Speedway",
-    "description": "Whittaker Ford F-50",
-    "detailsLink": "/schedules/event/489132"
-  },
-  {
-    "date": "2024-08-10",
+    "date": "2025-08-09",
+    "month": "Aug",
+    "day": "Saturday",
     "track": "Chemung Speedrome",
-    "description": "Rod Spalding Classic",
-    "detailsLink": "/schedules/event/488388"
+    "event": "The Night Before the Glen - Rod Spalding Classic",
+    "url": "/schedules/event/541725",
+    "series": "ROC"
   },
   {
-    "date": "2024-08-17",
+    "date": "2025-08-16",
+    "month": "Aug",
+    "day": "Saturday",
     "track": "Lancaster Speedway",
-    "description": "35th Annual Tommy Druar/Tony Jankowiak 110",
-    "detailsLink": "/schedules/event/488877"
+    "event": "36th Annual Tommy Druar/Tony Jankowiak 110",
+    "url": "/schedules/event/543990",
+    "series": "ROC"
   },
   {
-    "date": "2024-08-30",
+    "date": "2025-08-29",
+    "month": "Aug",
+    "day": "Friday",
     "track": "Spencer Speedway",
-    "description": "Maynard Troyer Classic V",
-    "detailsLink": "/schedules/event/489135"
+    "event": "Maynard Troyer Classic VI",
+    "url": "/schedules/event/550740",
+    "series": "ROC"
   },
   {
-    "date": "2024-09-20",
+    "date": "2025-09-13",
+    "month": "Sep",
+    "day": "Saturday",
     "track": "Lake Erie Speedway",
-    "description": "74th Annual Lucas Oil Race of Champions 250",
-    "detailsLink": "/schedules/event/488382"
+    "event": "Race of Champions Weekend",
+    "url": "/schedules/event/542343",
+    "series": "ROC"
   },
   {
-    "date": "2024-09-21",
-    "track": "Lake Erie Speedway",
-    "description": "74th Annual Lucas Oil Race of Champions 250",
-    "detailsLink": "/schedules/event/488382"
-  },
-  {
-    "date": "2024-09-22",
-    "track": "Lake Erie Speedway",
-    "description": "74th Annual Lucas Oil Race of Champions 250",
-    "detailsLink": "/schedules/event/488382"
+    "date": "2025-10-11",
+    "month": "Oct",
+    "day": "Saturday",
+    "track": "Thompson Speedway Motorsports Park",
+    "event": "75th Annual Race of Champions 150",
+    "url": "/schedules/event/543705",
+    "series": "ROC"
   }
 ]
