@@ -1,72 +1,101 @@
 [
   {
-    "date": "2024-06-08",
+    "date": "2025-05-24",
+    "month": "May",
+    "day": "Saturday",
+    "track": "The BullRing",
+    "event": "The Hayburner 40",
+    "url": "/schedules/event/560313",
+    "series": "ROC-SM"
+  },
+  {
+    "date": "2025-06-06",
+    "month": "Jun",
+    "day": "Friday",
+    "track": "Spencer Speedway",
+    "event": "Kid's Night at the Races",
+    "url": "/schedules/event/550728",
+    "series": "ROC-SM"
+  },
+  {
+    "date": "2025-06-14",
+    "month": "Jun",
+    "day": "Saturday",
+    "track": "The BullRing",
+    "event": "Father's Day 40",
+    "url": "/schedules/event/560322",
+    "series": "ROC-SM"
+  },
+  {
+    "date": "2025-06-21",
+    "month": "Jun",
+    "day": "Saturday",
     "track": "Holland International Speedway",
-    "description": "Wilbert's 100",
-    "detailsLink": "/schedules/event/488418",
+    "event": "ROC at Holland Speedway",
+    "url": "/schedules/event/541713",
     "series": "ROC-SM"
   },
   {
-    "date": "2024-06-14",
-    "track": "Spencer Speedway",
-    "description": "TBA",
-    "detailsLink": "/schedules/event/489141",
-    "series": "ROC-SM"
-  },
-  {
-    "date": "2024-06-16",
-    "track": "The BullRing",
-    "description": "RoC Sportsman at Wyoming County",
-    "detailsLink": "/schedules/event/489150",
-    "series": "ROC-SM"
-  },
-  {
-    "date": "2024-06-29",
-    "track": "The BullRing",
-    "description": "RoC Sportsman at Wyoming County",
-    "detailsLink": "/schedules/event/489153",
-    "series": "ROC-SM"
-  },
-  {
-    "date": "2024-07-12",
-    "track": "Spencer Speedway",
-    "description": "RoC Sportsman at Spencer",
-    "detailsLink": "/schedules/event/489144",
-    "series": "ROC-SM"
-  },
-  {
-    "date": "2024-07-20",
+    "date": "2025-07-19",
+    "month": "Jul",
+    "day": "Saturday",
     "track": "Chemung Speedrome",
-    "description": "RoC Sportsman at Chemung",
-    "detailsLink": "/schedules/event/489159",
+    "event": "Tribute to Ed McGuire 51",
+    "url": "/schedules/event/560634",
     "series": "ROC-SM"
   },
   {
-    "date": "2024-08-16",
+    "date": "2025-08-01",
+    "month": "Aug",
+    "day": "Friday",
     "track": "Spencer Speedway",
-    "description": "RoC Sportsman at Spencer",
-    "detailsLink": "/schedules/event/489147",
+    "event": "Fan Appreciation and Autograph Night",
+    "url": "/schedules/event/550734",
     "series": "ROC-SM"
   },
   {
-    "date": "2024-08-24",
+    "date": "2025-08-15",
+    "month": "Aug",
+    "day": "Friday",
+    "track": "Spencer Speedway",
+    "event": "Apple Harvest Night at the Races",
+    "url": "/schedules/event/550737",
+    "series": "ROC-SM"
+  },
+  {
+    "date": "2025-08-23",
+    "month": "Aug",
+    "day": "Saturday",
     "track": "Holland International Speedway",
-    "description": "George Decker & Rick Wylie Memorial",
-    "detailsLink": "/schedules/event/488421",
+    "event": "George Decker Memorial",
+    "url": "/schedules/event/541719",
     "series": "ROC-SM"
   },
   {
-    "date": "2024-09-14",
-    "track": "Chemung Speedrome",
-    "description": "Night Before the Glen",
-    "detailsLink": "/schedules/event/488415",
+    "date": "2025-08-29",
+    "month": "Aug",
+    "day": "Friday",
+    "track": "Spencer Speedway",
+    "event": "Maynard Troyer Classic VI",
+    "url": "/schedules/event/550740",
     "series": "ROC-SM"
   },
   {
-    "date": "2024-10-05",
+    "date": "2025-09-14",
+    "month": "Sep",
+    "day": "Sunday",
+    "track": "Lake Erie Speedway",
+    "event": "Race of Champions Weekend",
+    "url": "/schedules/event/542346",
+    "series": "ROC-SM"
+  },
+  {
+    "date": "2025-10-04",
+    "month": "Oct",
+    "day": "Saturday",
     "track": "The BullRing",
-    "description": "RoC Sportsman at Wyoming County",
-    "detailsLink": "/schedules/event/489156",
+    "event": "The Shootout at The Bullring",
+    "url": "/schedules/event/560349",
     "series": "ROC-SM"
   }
 ]
