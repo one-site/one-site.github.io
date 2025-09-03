@@ -1,0 +1,216 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <title>Chassis UI — Tabs/Subtabs Wiring</title>
+    <style>
+        :root {
+            --bg: #0b0f14;
+            --panel: #10161d;
+            --ink: #d7e2f0;
+            --muted: #7f8c99;
+            --accent: #5da0ff;
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+            background: var(--bg);
+            color: var(--ink);
+        }
+
+        .wrap {
+            max-width: 1100px;
+            margin: 0 auto;
+            padding: 16px;
+        }
+
+        .tabs, .subtabs {
+            display: flex;
+            gap: 8px;
+            flex-wrap: wrap;
+        }
+
+        .tabs {
+            padding: 8px;
+            background: var(--panel);
+            border-radius: 12px;
+        }
+
+        .subtabs {
+            padding: 8px 8px 0;
+        }
+
+        button.tab, button.subtab {
+            padding: 8px 12px;
+            background: #0f141b;
+            color: var(--muted);
+            border: 1px solid #1d2834;
+            border-radius: 10px;
+            cursor: pointer;
+            font-weight: 600;
+            letter-spacing: 0.2px;
+        }
+
+        button.tab.active, button.subtab.active {
+            color: var(--ink);
+            border-color: var(--accent);
+            box-shadow: 0 0 0 2px rgba(93, 160, 255, .15) inset;
+        }
+
+        button.tab:hover, button.subtab:hover {
+            color: var(--ink);
+            border-color: #2b3a4d;
+        }
+
+        .view {
+            margin-top: 14px;
+            padding: 16px;
+            background: var(--panel);
+            border-radius: 12px;
+            border: 1px solid #1d2834;
+        }
+
+        .crumb {
+            color: var(--muted);
+            font-size: 12px;
+            text-transform: uppercase;
+            letter-spacing: .14em;
+        }
+
+        .title {
+            margin: 6px 0 0;
+            font-size: 22px;
+        }
+
+        .hint {
+            color: var(--muted);
+            font-size: 13px;
+            margin-top: 6px;
+        }
+    </style>
+</head>
+<body>
+<div class="wrap">
+    <h1>Chassis UI — Tabs/Subtabs</h1>
+    <div id="app"></div>
+</div>
+
+<!-- Mithril global `m` -->
+<script src="https://unpkg.com/mithril/mithril.min.js"></script>
+
+<!-- App (ESM) -->
+<script type="module">
+  import {createMachine, state, transition, reduce, interpret} from 'https://esm.run/robot3@1.1.1';
+  import m from "mithril";
+
+  // --- Define tab → subtab map (edit to fit your app) ----------------------
+  const tabs = {
+    front: ['geometry', 'kinematics'],
+    rear: ['links', 'anti-squat'],
+    tires: ['pressures', 'sizes'],
+    llt: ['inputs', 'results']
+  };
+  const defaultSub = (t) => (tabs[t] && tabs[t][0]) || null;
+
+  // --- Minimal machine: just navigation ------------------------------------
+  const uiMachine = createMachine({
+    ready: state(
+      transition('SET_TAB',
+        'ready',
+        reduce((ctx, ev) => (
+          {...ctx, tab: ev.value, subTab: defaultSub(ev.value)}
+        ))
+      ),
+
+      transition(
+        'SET_SUBTAB',
+        'ready',
+        reduce((ctx, ev) => (
+          {...ctx, subTab: ev.value}
+        ))
+      )
+    )
+  }, () => ({tab: 'front', subTab: defaultSub('front')}));
+
+  const service = interpret(uiMachine, () => {
+    console.log('onChange', service.context)
+    m.redraw()
+  });
+
+  window.ui = service; // handy for debugging in console
+
+  // --- Components -----------------------------------------------------------
+  const TabsNav = {
+    view() {
+      return m('.tabs',
+        Object.keys(tabs).map(name =>
+          m('button.tab', {
+            class: service.context.tab === name ? 'active' : '',
+            onclick: () => service.send({type: 'SET_TAB', value: name})
+          }, name)
+        )
+      );
+    }
+  };
+
+  const SubTabsNav = {
+    view() {
+      const current = service.context.tab;
+      const list = tabs[current] || [];
+      return m('.subtabs', list.map(name =>
+        m('button.subtab', {
+          class: service.context.subTab === name ? 'active' : '',
+          onclick: () => service.send({type: 'SET_SUBTAB', value: name})
+        }, name)
+      ));
+    }
+  };
+
+  const ViewArea = {
+    view() {
+      const {tab, subTab} = service.context;
+      return m('.view', [
+        m('.crumb', 'Viewing'),
+        m('.title', `${tab} / ${subTab}`),
+        m('.hint', 'Replace this panel with your actual view/component for the selected subtab.')
+      ]);
+    }
+  };
+
+  const App = {view: () => [m(TabsNav), m(SubTabsNav), m(ViewArea)]};
+  let initial = true
+  // m.mount(document.getElementById('app'), App);
+  m.route(document.body, '/notFound', {
+    '/:tab/:subTab': {
+      // onmatch: ({params: {tab, subTab}}) => {
+      onmatch: (params, url, route) => {
+        console.log('onmatch', params, url, route)
+        const {tab, subTab} = params;
+        if (tabs[tab] && tabs[tab].includes(subTab)) {
+          service.send({type: 'SET_TAB', value: tab});
+          service.send({type: 'SET_SUBTAB', value: subTab});
+          if(!initial) m.route.set(route, params)
+          else initial = false
+        } else {
+          m.route.set('/notFound');
+        }
+      },
+      render: () => m(App)
+    },
+    '/notFound': {
+      render: () => m('.view', [
+        m('.crumb', '404'),
+        m('.title', 'Not Found'),
+        m('.hint', 'This page does not exist.')
+      ])
+    }
+  });
+</script>
+</body>
+</html>
