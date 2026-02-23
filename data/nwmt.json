@@ -2,97 +2,97 @@
   {
     "series": "NWMT",
     "date": "2026-02-07",
-    "track": "New Smyrna Speedway",
+    "trackId": "new-smyrna-speedway",
     "description": "New Smyrna Beach Area Visitors Bureau 200"
   },
   {
     "series": "NWMT",
     "date": "2026-03-27",
-    "track": "Martinsville Speedway",
+    "trackId": "martinsville-speedway",
     "description": null
   },
   {
     "series": "NWMT",
     "date": "2026-04-12",
-    "track": "Thompson Speedway Motorsports Park",
+    "trackId": "thompson-speedway-motorsports-park",
     "description": null
   },
   {
     "series": "NWMT",
     "date": "2026-05-02",
-    "track": "Oxford Plains Speedway",
+    "trackId": "oxford-plains-speedway",
     "description": null
   },
   {
     "series": "NWMT",
     "date": "2026-05-16",
-    "track": "Seekonk Speedway",
+    "trackId": "seekonk-speedway",
     "description": "J&R Precast 150"
   },
   {
     "series": "NWMT",
     "date": "2026-05-30",
-    "track": "Riverhead Raceway",
+    "trackId": "riverhead-raceway",
     "description": "Miller Lite Salutes Don Howe 200"
   },
   {
     "series": "NWMT",
     "date": "2026-06-20",
-    "track": "White Mountain Motorsports Park",
+    "trackId": "white-mountain-motorsports-park",
     "description": null
   },
   {
     "series": "NWMT",
     "date": "2026-07-01",
-    "track": "Seekonk Speedway",
+    "trackId": "seekonk-speedway",
     "description": "Firecracker 150 presented by the Bethesda Leadership Group"
   },
   {
     "series": "NWMT",
     "date": "2026-07-10",
-    "track": "Claremont Motorsports Park",
+    "trackId": "claremont-motorsports-park",
     "description": "2nd Annual Clash at Claremont"
   },
   {
     "series": "NWMT",
     "date": "2026-07-25",
-    "track": "Monadnock Speedway",
+    "trackId": "monadnock-speedway",
     "description": "5th Annual Duel at the Dog 200 powered by USNE"
   },
   {
     "series": "NWMT",
     "date": "2026-08-05",
-    "track": "Thompson Speedway Motorsports Park",
+    "trackId": "thompson-speedway-motorsports-park",
     "description": null
   },
   {
     "series": "NWMT",
     "date": "2026-08-22",
-    "track": "New Hampshire Motor Speedway",
+    "trackId": "new-hampshire-motor-speedway",
     "description": "Mohegan Sun 100"
   },
   {
     "series": "NWMT",
     "date": "2026-08-28",
-    "track": "Stafford Speedway",
+    "trackId": "stafford-speedway",
     "description": "Riverhead Building Supply 150"
   },
   {
     "series": "NWMT",
     "date": "2026-09-05",
-    "track": "Oswego Speedway",
+    "trackId": "oswego-speedway",
     "description": null
   },
   {
     "series": "NWMT",
     "date": "2026-09-19",
-    "track": "Riverhead Raceway",
+    "trackId": "riverhead-raceway",
     "description": "Eddie Partridge 256"
   },
   {
     "series": "NWMT",
     "date": "2026-10-11",
-    "track": "Thompson Speedway Motorsports Park",
+    "trackId": "thompson-speedway-motorsports-park",
     "description": null
   }
 ]
