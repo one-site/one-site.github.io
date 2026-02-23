@@ -1,86 +1,101 @@
 [
   {
-    "date": "2025-03-01",
-    "track": "Florence Motor Speedway, SC",
-    "event": "ZACH BREWER MEMORIAL",
-    "series": "SMART"
+    "series": "SMART",
+    "date": "2026-02-28",
+    "track": "Florence Motor Speedway",
+    "location": "Timmonsville, SC",
+    "description": "Zach Brewer Memorial at Florence"
   },
   {
-    "date": "2025-03-08",
-    "track": "Anderson Motor Speedway, SC",
-    "event": "TBD",
-    "series": "SMART"
+    "series": "SMART",
+    "date": "2026-03-07",
+    "track": "Anderson Motor Speedway",
+    "location": "Anderson, SC",
+    "description": "Pace-O-Matic 99 at Anderson"
   },
   {
-    "date": "2025-03-22",
+    "series": "SMART",
+    "date": "2026-03-20",
+    "endDate": "2026-03-21",
     "track": "South Boston Speedway",
-    "event": "KING OF THE MODIFIEDS",
-    "series": "SMART"
+    "location": "South Boston, VA",
+    "description": "Pace-O-Matic King of the Modifieds at South Boston"
   },
   {
-    "date": "2025-04-05",
-    "track": "Orange Co. Speedway",
-    "event": "THE RUMBLE IN ROUGEMONT",
-    "series": "SMART"
-  },
-  {
-    "date": "2025-04-12",
-    "track": "Hickory Motor Speedway",
-    "event": "HICKORY HUNDRED",
-    "series": "SMART"
-  },
-  {
-    "date": "2025-05-23",
-    "track": "Franklin Co. Speedway",
-    "event": "KENNY MINTER CLASSIC",
-    "series": "SMART"
-  },
-  {
-    "date": "2025-07-05",
-    "track": "Caraway Speedway",
-    "event": "REVOLUTIONARY 99",
-    "series": "SMART"
-  },
-  {
-    "date": "2025-08-29",
-    "track": "New River All-American Speedway",
-    "event": "PACE-O-MATIC 99",
-    "series": "SMART"
-  },
-  {
-    "date": "2025-08-30",
-    "track": "Carteret Co. Speedway",
-    "event": "THE CARTERET CLASH",
-    "series": "SMART"
-  },
-  {
-    "date": "2025-09-06",
-    "track": "Caraway Speedway",
-    "event": "WARRIOR 100",
-    "series": "SMART"
-  },
-  {
-    "date": "2025-09-13",
+    "series": "SMART",
+    "date": "2026-04-04",
     "track": "Dominion Raceway",
-    "event": "THE FLYING VA CLASSIC",
-    "series": "SMART"
+    "location": "Spotsylvania (Woodford), VA",
+    "description": "The Flying VA Classic at Dominion"
   },
   {
-    "date": "2025-09-20",
-    "track": "Lonesome Pine Speedway",
-    "event": "THE MOD SQUAD NATIONALS",
-    "series": "SMART"
+    "series": "SMART",
+    "date": "2026-04-11",
+    "track": "Hickory Motor Speedway",
+    "location": "Newton, NC",
+    "description": "The Hickory Hundred"
   },
   {
-    "date": "2025-10-11",
+    "series": "SMART",
+    "date": "2026-04-24",
+    "track": "Wake County Speedway",
+    "location": "Raleigh, NC",
+    "description": "Mod Squad Nationals at Wake County"
+  },
+  {
+    "series": "SMART",
+    "date": "2026-05-29",
+    "track": "Franklin County Raceway",
+    "location": "Callaway, VA",
+    "description": "Kenny Minter Classic at Franklin"
+  },
+  {
+    "series": "SMART",
+    "date": "2026-07-04",
+    "track": "Caraway Speedway",
+    "location": "Sophia, NC",
+    "description": "Revolutionary 99 at Caraway"
+  },
+  {
+    "series": "SMART",
+    "date": "2026-08-07",
+    "track": "Pulaski Motorsports Park",
+    "location": "Fairlawn, VA",
+    "description": "The Radford Race at Pulaski"
+  },
+  {
+    "series": "SMART",
+    "date": "2026-09-05",
+    "track": "Carteret County Speedway",
+    "location": "Swansboro, NC",
+    "description": "SMART Beach Trip - The Carteret Clash"
+  },
+  {
+    "series": "SMART",
+    "date": "2026-09-12",
+    "track": "Caraway Speedway",
+    "location": "Sophia, NC",
+    "description": "Robert Jeffreys Memorial at Caraway"
+  },
+  {
+    "series": "SMART",
+    "date": "2026-09-19",
+    "track": "Orange County Speedway",
+    "location": "Rougemont, NC",
+    "description": "The Rumble in Rougemont at OCS"
+  },
+  {
+    "series": "SMART",
+    "date": "2026-10-03",
     "track": "Tri-County Speedway",
-    "event": "GARY FREEMAN HOOSIER 99",
-    "series": "SMART"
+    "location": "Granite Falls (Hudson), NC",
+    "description": "Freeman Hoosier 99 at Tri-Co"
   },
   {
-    "date": "2025-10-18",
+    "series": "SMART",
+    "date": "2026-10-17",
     "track": "North Wilkesboro Speedway",
-    "event": "CHAMPIONSHIP FINALE",
-    "series": "SMART"
+    "location": "North Wilkesboro, NC",
+    "description": "The Finale at North Wilkesboro"
   }
 ]
