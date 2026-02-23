@@ -1,0 +1,154 @@
+{
+  "tracks": [
+    {
+      "id": "anderson-motor-speedway",
+      "name": "Anderson Motor Speedway",
+      "location": "Anderson, SC",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Anderson%20Motor%20Speedway%2C%20Anderson%2C%20SC"
+    },
+    {
+      "id": "caraway-speedway",
+      "name": "Caraway Speedway",
+      "location": "Sophia, NC",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Caraway%20Speedway%2C%20Sophia%2C%20NC"
+    },
+    {
+      "id": "carteret-county-speedway",
+      "name": "Carteret County Speedway",
+      "location": "Swansboro, NC",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Carteret%20County%20Speedway%2C%20Swansboro%2C%20NC"
+    },
+    {
+      "id": "claremont-motorsports-park",
+      "name": "Claremont Motorsports Park",
+      "location": "Claremont, NH",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Claremont%20Motorsports%20Park%2C%20Claremont%2C%20NH"
+    },
+    {
+      "id": "dominion-raceway",
+      "name": "Dominion Raceway",
+      "location": "Woodford, VA",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Dominion%20Raceway%2C%20Woodford%2C%20VA"
+    },
+    {
+      "id": "florence-motor-speedway",
+      "name": "Florence Motor Speedway",
+      "location": "Timmonsville, SC",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Florence%20Motor%20Speedway%2C%20Timmonsville%2C%20SC"
+    },
+    {
+      "id": "franklin-county-raceway",
+      "name": "Franklin County Raceway",
+      "location": "Callaway, VA",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Franklin%20County%20Raceway%2C%20Callaway%2C%20VA"
+    },
+    {
+      "id": "hickory-motor-speedway",
+      "name": "Hickory Motor Speedway",
+      "location": "Newton, NC",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Hickory%20Motor%20Speedway%2C%20Newton%2C%20NC"
+    },
+    {
+      "id": "martinsville-speedway",
+      "name": "Martinsville Speedway",
+      "location": "Ridgeway, VA",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Martinsville%20Speedway%2C%20Ridgeway%2C%20VA"
+    },
+    {
+      "id": "monadnock-speedway",
+      "name": "Monadnock Speedway",
+      "location": "Winchester, NH",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Monadnock%20Speedway%2C%20Winchester%2C%20NH"
+    },
+    {
+      "id": "new-hampshire-motor-speedway",
+      "name": "NH Motor Speedway",
+      "location": "Loudon, NH",
+      "maps": "https://www.google.com/maps/search/?api=1&query=New%20Hampshire%20Motor%20Speedway%2C%20Loudon%2C%20NH"
+    },
+    {
+      "id": "new-smyrna-speedway",
+      "name": "New Smyrna Speedway",
+      "location": "New Smyrna Beach, FL",
+      "maps": "https://www.google.com/maps/search/?api=1&query=New%20Smyrna%20Speedway%2C%20New%20Smyrna%20Beach%2C%20FL"
+    },
+    {
+      "id": "north-wilkesboro-speedway",
+      "name": "North Wilkesboro Speedway",
+      "location": "North Wilkesboro, NC",
+      "maps": "https://www.google.com/maps/search/?api=1&query=North%20Wilkesboro%20Speedway%2C%20North%20Wilkesboro%2C%20NC"
+    },
+    {
+      "id": "orange-county-speedway",
+      "name": "Orange County Speedway",
+      "location": "Rougemont, NC",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Orange%20County%20Speedway%2C%20Rougemont%2C%20NC"
+    },
+    {
+      "id": "oswego-speedway",
+      "name": "Oswego Speedway",
+      "location": "Oswego, NY",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Oswego%20Speedway%2C%20Oswego%2C%20NY"
+    },
+    {
+      "id": "oxford-plains-speedway",
+      "name": "Oxford Plains Speedway",
+      "location": "Oxford, ME",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Oxford%20Plains%20Speedway%2C%20Oxford%2C%20ME"
+    },
+    {
+      "id": "pulaski-motorsports-park",
+      "name": "Pulaski Motorsports Park",
+      "location": "Fairlawn, VA",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Pulaski%20Motorsports%20Park%2C%20Fairlawn%2C%20VA"
+    },
+    {
+      "id": "riverhead-raceway",
+      "name": "Riverhead Raceway",
+      "location": "Riverhead, NY",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Riverhead%20Raceway%2C%20Riverhead%2C%20NY"
+    },
+    {
+      "id": "seekonk-speedway",
+      "name": "Seekonk Speedway",
+      "location": "Seekonk, MA",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Seekonk%20Speedway%2C%20Seekonk%2C%20MA"
+    },
+    {
+      "id": "south-boston-speedway",
+      "name": "South Boston Speedway",
+      "location": "South Boston, VA",
+      "maps": "https://www.google.com/maps/search/?api=1&query=South%20Boston%20Speedway%2C%20South%20Boston%2C%20VA"
+    },
+    {
+      "id": "stafford-speedway",
+      "name": "Stafford Speedway",
+      "location": "Stafford Springs, CT",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Stafford%20Speedway%2C%20Stafford%20Springs%2C%20CT"
+    },
+    {
+      "id": "thompson-speedway-motorsports-park",
+      "name": "Thompson Motorsports Park",
+      "location": "Thompson, CT",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Thompson%20Speedway%20Motorsports%20Park%2C%20Thompson%2C%20CT"
+    },
+    {
+      "id": "tri-county-speedway",
+      "name": "Tri-County Speedway",
+      "location": "Hudson, NC",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Tri-County%20Speedway%2C%20Hudson%2C%20NC"
+    },
+    {
+      "id": "wake-county-speedway",
+      "name": "Wake County Speedway",
+      "location": "Raleigh, NC",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Wake%20County%20Speedway%2C%20Raleigh%2C%20NC"
+    },
+    {
+      "id": "white-mountain-motorsports-park",
+      "name": "White Mountain Motorsports Park",
+      "location": "North Woodstock, NH",
+      "maps": "https://www.google.com/maps/search/?api=1&query=White%20Mountain%20Motorsports%20Park%2C%20North%20Woodstock%2C%20NH"
+    }
+  ]
+}
