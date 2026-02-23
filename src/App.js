@@ -34,6 +34,7 @@ Promise.all([
     m.request(`${dataBaseURL}/data/nwmt.json`, requestOptions),
     m.request(`${dataBaseURL}/data/nyirp.json`, requestOptions),
     m.request(`${dataBaseURL}/data/roc-sm.json`, requestOptions),
+    m.request(`${dataBaseURL}/data/opnm-st.json`, requestOptions),
     m.request(`${dataBaseURL}/data/opnm.json`, requestOptions)
       .then(it => it.map(race => Object.assign(race, {series: 'OPNM'}))),
     m.request(`${dataBaseURL}/data/roc.json`, requestOptions)
@@ -52,7 +53,7 @@ Promise.all([
       }, allEvents)
 
       allEvents = allEvents
-        .filter(it => it.date >= parseISO('2024-01-01'))
+        .filter(it => it.date >= parseISO('2026-01-01'))
         .sort((r1, r2) => r1.date - r2.date)
 
       nestedData = nest(allEvents.map(it => {
