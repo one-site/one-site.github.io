@@ -1,124 +1,98 @@
 [
   {
-    "date": "2025-02-06",
-    "event": "Parking & Practice Day",
-    "details": "David Rogers Super Late Models, Hoosier Pro Late Models, Tour Modified, J&C Gradall Modifieds, Sportsman, E-Mod, Super Stocks, Ashley Homes JAX Trucks, Mod Minis, Black Jack Seal Coating Bomber A, Bomber B, Florida Southern Ground Pounders, 602 Tour Modifieds",
-    "track": "New Smyrna Speedway"
-  },
-  {
-    "date": "2025-02-10",
-    "event": "World Series Night 4: Tour Mods Return",
-    "details": "Hoosier Pro Late Models, Tour Modified, J&C Gradall Modifieds, 602 Tour Modifieds",
-    "track": "New Smyrna Speedway"
-  },
-  {
-    "date": "2025-02-11",
-    "event": "World Series Night 5: ASA Stars National Tour 200",
-    "details": "Southern Super Series, Tour Modified, J&C Gradall Modifieds",
-    "track": "New Smyrna Speedway"
-  },
-  {
-    "date": "2025-02-12",
-    "event": "World Series Night 6: Hart to Heart Pro Late Model 100 & Blewett Memorial Tour Mod 76",
-    "details": "David Rogers Super Late Models, Hoosier Pro Late Models, Tour Modified, 602 Tour Modifieds",
-    "track": "New Smyrna Speedway"
-  },
-  {
-    "date": "2025-02-13",
-    "event": "World Series Night 7: Orange Blossom Super Late Model 100",
-    "details": "David Rogers Super Late Models, Hoosier Pro Late Models, Tour Modified, 602 Tour Modifieds",
-    "track": "New Smyrna Speedway"
-  },
-  {
-    "date": "2025-02-14",
-    "event": "World Series Night 8: Richie Evans Memorial Tour Mod 100",
-    "details": "Tour Modified, Mod Minis, Black Jack Seal Coating Bomber A, Florida Southern Ground Pounders",
-    "track": "New Smyrna Speedway"
-  },
-  {
-    "date": "2025-02-15",
-    "event": "World Series Night 9: Local Division Showcase",
-    "details": "E-Mod, Super Stocks, Ashley Homes JAX Trucks, Bomber B",
-    "track": "New Smyrna Speedway"
+    "series": "NWMT",
+    "date": "2026-02-07",
+    "track": "New Smyrna Speedway",
+    "description": "New Smyrna Beach Area Visitors Bureau 200"
   },
   {
     "series": "NWMT",
-    "date": "2025-02-08",
-    "track": "New Smyrna Speedway"
+    "date": "2026-03-27",
+    "track": "Martinsville Speedway",
+    "description": null
   },
   {
     "series": "NWMT",
-    "date": "2025-03-30",
-    "track": "Thompson Motorsports Park"
+    "date": "2026-04-12",
+    "track": "Thompson Speedway Motorsports Park",
+    "description": null
   },
   {
     "series": "NWMT",
-    "date": "2025-05-03",
-    "track": "Monadnock Speedway"
+    "date": "2026-05-02",
+    "track": "Oxford Plains Speedway",
+    "description": null
   },
   {
     "series": "NWMT",
-    "date": "2025-05-18",
-    "track": "North Wilkesboro Speedway"
+    "date": "2026-05-16",
+    "track": "Seekonk Speedway",
+    "description": "J&R Precast 150"
   },
   {
     "series": "NWMT",
-    "date": "2025-05-31",
-    "track": "Seekonk Speedway"
+    "date": "2026-05-30",
+    "track": "Riverhead Raceway",
+    "description": "Miller Lite Salutes Don Howe 200"
   },
   {
     "series": "NWMT",
-    "date": "2025-06-14",
-    "track": "Riverhead Raceway"
+    "date": "2026-06-20",
+    "track": "White Mountain Motorsports Park",
+    "description": null
   },
   {
     "series": "NWMT",
-    "date": "2025-06-28",
-    "track": "White Mountain Motorsports Park"
+    "date": "2026-07-01",
+    "track": "Seekonk Speedway",
+    "description": "Firecracker 150 presented by the Bethesda Leadership Group"
   },
   {
     "series": "NWMT",
-    "date": "2025-07-12",
-    "track": "Lancaster Motorplex"
+    "date": "2026-07-10",
+    "track": "Claremont Motorsports Park",
+    "description": "2nd Annual Clash at Claremont"
   },
   {
     "series": "NWMT",
-    "date": "2025-07-19",
-    "track": "Monadnock Speedway"
+    "date": "2026-07-25",
+    "track": "Monadnock Speedway",
+    "description": "5th Annual Duel at the Dog 200 powered by USNE"
   },
   {
     "series": "NWMT",
-    "date": "2025-08-06",
-    "track": "Thompson Motorsports Park"
+    "date": "2026-08-05",
+    "track": "Thompson Speedway Motorsports Park",
+    "description": null
   },
   {
     "series": "NWMT",
-    "date": "2025-08-14",
-    "track": "Richmond Raceway"
+    "date": "2026-08-22",
+    "track": "New Hampshire Motor Speedway",
+    "description": "Mohegan Sun 100"
   },
   {
     "series": "NWMT",
-    "date": "2025-08-30",
-    "track": "Oswego Speedway"
+    "date": "2026-08-28",
+    "track": "Stafford Speedway",
+    "description": "Riverhead Building Supply 150"
   },
   {
     "series": "NWMT",
-    "date": "2025-09-06",
-    "track": "Riverhead Raceway"
+    "date": "2026-09-05",
+    "track": "Oswego Speedway",
+    "description": null
   },
   {
     "series": "NWMT",
-    "date": "2025-09-20",
-    "track": "New Hampshire Motor Speedway"
+    "date": "2026-09-19",
+    "track": "Riverhead Raceway",
+    "description": "Eddie Partridge 256"
   },
   {
     "series": "NWMT",
-    "date": "2025-10-12",
-    "track": "Thompson Motorsports Park"
-  },
-  {
-    "series": "NWMT",
-    "date": "2025-10-18",
-    "track": "Martinsville Speedway"
+    "date": "2026-10-11",
+    "track": "Thompson Speedway Motorsports Park",
+    "description": null
   }
 ]
