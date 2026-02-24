@@ -121,8 +121,8 @@
       "maps": "https://www.google.com/maps/search/?api=1&query=South%20Boston%20Speedway%2C%20South%20Boston%2C%20VA"
     },
     {
-      "id": "stafford-speedway",
-      "name": "Stafford Speedway",
+      "id": "stafford-motor-speedway",
+      "name": "Stafford Motor Speedway",
       "location": "Stafford Springs, CT",
       "maps": "https://www.google.com/maps/search/?api=1&query=Stafford%20Speedway%2C%20Stafford%20Springs%2C%20CT"
     },
@@ -149,6 +149,20 @@
       "name": "White Mountain Motorsports Park",
       "location": "North Woodstock, NH",
       "maps": "https://www.google.com/maps/search/?api=1&query=White%20Mountain%20Motorsports%20Park%2C%20North%20Woodstock%2C%20NH"
+    },
+    {
+      "id": "new-london-waterford-speedbowl",
+      "name": "New London-Waterford Speedbowl",
+      "location": "Waterford, CT",
+      "website": "https://www.speedbowlct.com",
+      "maps": "https://www.google.com/maps/search/?api=1&query=New%20London-Waterford%20Speedbowl%2C%20Waterford%2C%20CT"
+    },
+    {
+      "id": "star-speedway",
+      "name": "Star Speedway",
+      "location": "Epping, NH",
+      "website": "http://www.starspeedwaynh.com",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Star%20Speedway%2C%20Epping%2C%20NH"
     }
   ]
 }
