@@ -163,6 +163,62 @@
       "location": "Epping, NH",
       "website": "http://www.starspeedwaynh.com",
       "maps": "https://www.google.com/maps/search/?api=1&query=Star%20Speedway%2C%20Epping%2C%20NH"
+    },
+    {
+      "id": "lee-usa-speedway",
+      "name": "Lee USA Speedway",
+      "location": "Lee, NH",
+      "website": "https://www.leespeedway.com",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Lee%20USA%20Speedway%2C%20Lee%2C%20NH"
+    },
+    {
+      "id": "evergreen-raceway-pa",
+      "name": "Evergreen Raceway",
+      "location": "St. Johns, PA",
+      "website": "https://www.evergreenracewaypa.com",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Evergreen%20Raceway%2C%20St.%20Johns%2C%20PA"
+    },
+    {
+      "id": "mahoning-valley-speedway",
+      "name": "Mahoning Valley Speedway",
+      "location": "Lehighton, PA",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Mahoning%20Valley%20Speedway%2C%20Lehighton%2C%20PA"
+    },
+    {
+      "id": "shangri-la-ii-speedway",
+      "name": "Shangri-La II Speedway",
+      "location": "Tioga Center, NY",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Shangri-La%20II%20Speedway%2C%20Tioga%20Center%2C%20NY"
+    },
+    {
+      "id": "spencer-speedway",
+      "name": "Spencer Speedway",
+      "location": "Williamson, NY",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Spencer%20Speedway%2C%20Williamson%2C%20NY"
+    },
+    {
+      "id": "evans-mills-speedway",
+      "name": "Evans Mills Speedway",
+      "location": "Evans Mills, NY",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Evans%20Mills%20Speedway%2C%20Evans%20Mills%2C%20NY"
+    },
+    {
+      "id": "lancaster-motorplex",
+      "name": "Lancaster Motorplex",
+      "location": "Lancaster, NY",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Lancaster%20Motorplex%2C%20Lancaster%2C%20NY"
+    },
+    {
+      "id": "holland-international-speedway",
+      "name": "Holland International Speedway",
+      "location": "Holland, NY",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Holland%20International%20Speedway%2C%20Holland%2C%20NY"
+    },
+    {
+      "id": "lake-erie-speedway",
+      "name": "Lake Erie Speedway",
+      "location": "North East, PA",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Lake%20Erie%20Speedway%2C%20North%20East%2C%20PA"
     }
   ]
 }

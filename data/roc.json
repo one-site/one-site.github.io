@@ -1,119 +1,74 @@
 [
   {
-    "date": "2025-04-12",
-    "month": "Apr",
-    "day": "Saturday",
-    "track": "Lake Erie Speedway",
-    "event": "72nd Annual Race of Champions 250",
-    "url": "/schedules/event/543840",
-    "series": "ROC"
+    "series": "ROC",
+    "date": "2026-04-18",
+    "trackId": "mahoning-valley-speedway",
+    "description": "Bunny Hop 75"
   },
   {
-    "date": "2025-04-19",
-    "month": "Apr",
-    "day": "Saturday",
-    "track": "Mahoning Valley Speedway",
-    "event": "Spring Zing",
-    "url": "/schedules/event/543993",
-    "series": "ROC"
+    "series": "ROC",
+    "date": "2026-05-09",
+    "trackId": "shangri-la-ii-speedway",
+    "description": "Rod Spalding Classic"
   },
   {
-    "date": "2025-05-10",
-    "month": "May",
-    "day": "Saturday",
-    "track": "Chemung Speedrome",
-    "event": "May Flowers 75",
-    "url": "/schedules/event/541722",
-    "series": "ROC"
+    "series": "ROC",
+    "date": "2026-06-05",
+    "trackId": "spencer-speedway",
+    "description": "ROC Modifieds at Spencer Speedway"
   },
   {
-    "date": "2025-05-23",
-    "month": "May",
-    "day": "Friday",
-    "track": "Spencer Speedway",
-    "event": "35th Annual Tommy Druar/Tony Jankowiak 110",
-    "url": "/schedules/event/550725",
-    "series": "ROC"
+    "series": "ROC",
+    "date": "2026-06-27",
+    "trackId": "evans-mills-speedway",
+    "description": "Rocket 76er"
   },
   {
-    "date": "2025-06-26",
-    "month": "Jun",
-    "day": "Thursday",
-    "track": "Lancaster Speedway",
-    "event": "Ol' Boy Cup IX",
-    "url": "/schedules/event/543987",
-    "series": "ROC"
+    "series": "ROC",
+    "date": "2026-07-02",
+    "trackId": "lancaster-motorplex",
+    "description": "Ol' Boy Cup"
   },
   {
-    "date": "2025-07-05",
-    "month": "Jul",
-    "day": "Saturday",
-    "track": "Evans Mills Speedway",
-    "event": "Rocket 76er",
-    "url": "/schedules/event/543984",
-    "series": "ROC"
+    "series": "ROC",
+    "date": "2026-07-18",
+    "trackId": "holland-international-speedway",
+    "description": "Thunder in the Hills 100"
   },
   {
-    "date": "2025-07-11",
-    "month": "Jul",
-    "day": "Friday",
-    "track": "Spencer Speedway",
-    "event": "Whittaker Ford F-50",
-    "url": "/schedules/event/550731",
-    "series": "ROC"
+    "series": "ROC",
+    "date": "2026-08-01",
+    "trackId": "mahoning-valley-speedway",
+    "description": "ROC Modifieds at Mahoning Valley"
   },
   {
-    "date": "2025-07-26",
-    "month": "Jul",
-    "day": "Saturday",
-    "track": "Holland International Speedway",
-    "event": "Thunder in the Hills 100",
-    "url": "/schedules/event/541716",
-    "series": "ROC"
+    "series": "ROC",
+    "date": "2026-08-15",
+    "trackId": "lancaster-motorplex",
+    "description": "ROC Modifieds at Lancaster Motorplex"
   },
   {
-    "date": "2025-08-09",
-    "month": "Aug",
-    "day": "Saturday",
-    "track": "Chemung Speedrome",
-    "event": "The Night Before the Glen - Rod Spalding Classic",
-    "url": "/schedules/event/541725",
-    "series": "ROC"
+    "series": "ROC",
+    "date": "2026-09-04",
+    "trackId": "spencer-speedway",
+    "description": "ROC Modifieds & Sportsman at Spencer"
   },
   {
-    "date": "2025-08-16",
-    "month": "Aug",
-    "day": "Saturday",
-    "track": "Lancaster Speedway",
-    "event": "36th Annual Tommy Druar/Tony Jankowiak 110",
-    "url": "/schedules/event/543990",
-    "series": "ROC"
+    "series": "ROC",
+    "date": "2026-09-12",
+    "trackId": "lake-erie-speedway",
+    "description": "Race of Champions Weekend"
   },
   {
-    "date": "2025-08-29",
-    "month": "Aug",
-    "day": "Friday",
-    "track": "Spencer Speedway",
-    "event": "Maynard Troyer Classic VI",
-    "url": "/schedules/event/550740",
-    "series": "ROC"
+    "series": "ROC",
+    "date": "2026-10-10",
+    "trackId": "mahoning-valley-speedway",
+    "description": "ROC Modifieds at Mahoning Valley"
   },
   {
-    "date": "2025-09-13",
-    "month": "Sep",
-    "day": "Saturday",
-    "track": "Lake Erie Speedway",
-    "event": "Race of Champions Weekend",
-    "url": "/schedules/event/542343",
-    "series": "ROC"
-  },
-  {
-    "date": "2025-10-11",
-    "month": "Oct",
-    "day": "Saturday",
-    "track": "Thompson Speedway Motorsports Park",
-    "event": "75th Annual Race of Champions 150",
-    "url": "/schedules/event/543705",
-    "series": "ROC"
+    "series": "ROC",
+    "date": "2026-10-18",
+    "trackId": "shangri-la-ii-speedway",
+    "description": "ROC Modifieds at Shangri-La II"
   }
 ]

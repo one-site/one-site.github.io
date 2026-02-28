@@ -1,32 +1,40 @@
 [
   {
-    "date": "2025-05-04",
-    "track": "Evergreen Raceway",
-    "series": "ERTM"
+    "series": "EGR-PA",
+    "date": "2026-05-03",
+    "trackId": "evergreen-raceway-pa",
+    "description": "2:00 pm — OPENING DAY: Tour Type Modifieds, Street Stocks, Four Cylinders, Rotten-and-Forgotten, Rookie 602 Crate Modifieds, East Coast Legends + JuiceBox Division"
   },
   {
-    "date": "2025-06-15",
-    "track": "Evergreen Raceway",
-    "series": "ERTM"
+    "series": "EGR-PA",
+    "date": "2026-06-21",
+    "trackId": "evergreen-raceway-pa",
+    "description": "2:00 pm — Tour Type Modifieds, Street Stocks, Four Cylinders, Rotten-and-Forgotten, Rookie 602 Crate Modifieds (Fairway Chevrolet Day)"
   },
   {
-    "date": "2025-07-13",
-    "track": "Evergreen Raceway",
-    "series": "ERTM"
+    "series": "EGR-PA",
+    "date": "2026-08-16",
+    "trackId": "evergreen-raceway-pa",
+    "description": "2:00 pm — Tour Type Modifieds, Street Stocks, Four Cylinders, Rotten-and-Forgotten, Rookie 602 Crate Modifieds, East Coast Legends"
   },
   {
-    "date": "2025-08-10",
-    "track": "Evergreen Raceway",
-    "series": "ERTM"
+    "series": "EGR-PA",
+    "date": "2026-09-20",
+    "trackId": "evergreen-raceway-pa",
+    "description": "2:00 pm — Tour Type Modifieds, Street Stocks, Four Cylinders, Rotten-and-Forgotten, Rookie 602 Crate Modifieds, East Coast Legends"
   },
   {
-    "date": "2025-09-07",
-    "track": "Evergreen Raceway",
-    "series": "ERTM"
+    "series": "EGR-PA",
+    "date": "2026-10-16",
+    "endDate": "2026-10-18",
+    "trackId": "evergreen-raceway-pa",
+    "description": "25th Annual KING OF THE GREEN"
   },
   {
-    "date": "2025-10-25",
-    "track": "Evergreen Raceway KOTG",
-    "series": "ERTM"
+    "series": "EGR-PA",
+    "date": "2026-10-31",
+    "endDate": "2026-11-01",
+    "trackId": "evergreen-raceway-pa",
+    "description": "King of the Green rain dates"
   }
 ]

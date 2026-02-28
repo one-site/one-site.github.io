@@ -1,92 +1,62 @@
 [
   {
-    "date": "2025-05-03",
-    "track": "New London-Waterford Speedbowl",
-    "location": "TBA",
-    "event": "Modified Racing Series",
-    "laps": "TBA",
     "series": "MRS",
-    "link": "/schedules/event/546582"
+    "date": "2026-04-18",
+    "trackId": "new-hampshire-motor-speedway",
+    "description": "6th Annual Northeast Classic"
   },
   {
-    "date": "2025-06-13",
-    "track": "Claremont Motorsports Park",
-    "location": "TBA",
-    "event": "Modified Racing Series",
-    "laps": "TBA",
     "series": "MRS",
-    "link": "/schedules/event/544050"
+    "date": "2026-04-19",
+    "trackId": "new-hampshire-motor-speedway",
+    "description": "6th Annual Northeast Classic"
   },
   {
-    "date": "2025-06-21",
-    "track": "Monadnock Speedway",
-    "location": "TBA",
-    "event": "Monadnock Open (MRS points)",
-    "laps": "TBA",
     "series": "MRS",
-    "link": "/schedules/event/546585"
+    "date": "2026-06-12",
+    "trackId": "lee-usa-speedway",
+    "description": null
   },
   {
-    "date": "2025-07-05",
-    "track": "Riverside Speedway",
-    "location": "TBA",
-    "event": "Modified Racing Series",
-    "laps": "TBA",
     "series": "MRS",
-    "link": "/schedules/event/546588"
+    "date": "2026-06-19",
+    "trackId": "claremont-motorsports-park",
+    "description": null
   },
   {
-    "date": "2025-07-11",
-    "track": "Lee USA Speedway",
-    "location": "TBA",
-    "event": "Modified Racing Series",
-    "laps": "TBA",
     "series": "MRS",
-    "link": "/schedules/event/546591"
+    "date": "2026-07-04",
+    "trackId": "monadnock-speedway",
+    "description": null
   },
   {
-    "date": "2025-08-16",
-    "track": "Monadnock Speedway",
-    "location": "TBA",
-    "event": "Modified Racing Series",
-    "laps": "TBA",
     "series": "MRS",
-    "link": "https://www.myracepass.com/tracks/2149/tickets/1432593?rKey=15395"
+    "date": "2026-07-18",
+    "trackId": "white-mountain-motorsports-park",
+    "description": "White Mountain 100"
   },
   {
-    "date": "2025-08-31",
-    "track": "Claremont Motorsports Park",
-    "location": "TBA",
-    "event": "Claremont Open (MRS points)",
-    "laps": "TBA",
     "series": "MRS",
-    "link": "/schedules/event/544086"
+    "date": "2026-08-28",
+    "trackId": "oxford-plains-speedway",
+    "description": "Oxford 250"
   },
   {
-    "date": "2025-09-13",
-    "track": "Star Speedway",
-    "location": "TBA",
-    "event": "Star Classic",
-    "laps": "TBA",
     "series": "MRS",
-    "link": "/schedules/event/546597"
+    "date": "2026-09-06",
+    "trackId": "claremont-motorsports-park",
+    "description": null
   },
   {
-    "date": "2025-10-04",
-    "track": "New London-Waterford Speedbowl",
-    "location": "TBA",
-    "event": "Modified Racing Series",
-    "laps": "TBA",
     "series": "MRS",
-    "link": "/schedules/event/546603"
+    "date": "2026-09-27",
+    "trackId": "oxford-plains-speedway",
+    "description": "PASS 400"
   },
   {
-    "date": "2025-10-19",
-    "track": "Claremont Motorsports Park",
-    "location": "TBA",
-    "event": "Modified Racing Series",
-    "laps": "TBA",
     "series": "MRS",
-    "link": "/schedules/event/544101"
+    "date": "2026-10-09",
+    "trackId": "thompson-speedway-motorsports-park",
+    "description": null
   }
 ]
