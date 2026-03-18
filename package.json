@@ -2,17 +2,24 @@
   "name": "mod-schedule",
   "version": "0.0.1",
   "scripts": {
-    "dev": "vite",
+    "dev": "vite --port 4000 --host",
     "build": "vite build",
     "preview": "vite preview"
   },
   "dependencies": {
-    "mithril": "^2.0.4",
-    "lodash-es": "^4.17.21",
+    "@svgdotjs/svg.js": "^3.1.2",
+    "bss": "^1.6.4",
     "date-fns": "^2.28.0",
-    "bss": "^1.6.4"
+    "fomantic-ui": "^2.9.4",
+    "fomantic-ui-css": "^2.9.4",
+    "jquery": "^3.7.1",
+    "lodash-es": "^4.17.21",
+    "m-dot-nav": "^1.0.9",
+    "mithril": "^2.0.4",
+    "rxjs": "^7.8.1",
+    "robot3": "^1.1.1"
   },
   "devDependencies": {
-    "vite": "^2.6.2"
+    "vite": "^4.3.9"
   }
 }
