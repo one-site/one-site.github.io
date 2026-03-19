@@ -33,8 +33,8 @@ const isLocal =
   location.hostname === "localhost" || location.hostname.startsWith("192.168.");
 
 const dataBaseURL = isLocal
-  ? `http://${location.hostname}:4000/data`
-  : "https://one-site.github.io/data";
+  ? `http://${location.hostname}:4000`
+  : "https://one-site.github.io";
 
 let nestedData = {};
 let tracksById = {};
