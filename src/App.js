@@ -32,9 +32,7 @@ let requestOptions = {background: true};
 const isLocal =
   location.hostname === "localhost" || location.hostname.startsWith("192.168.");
 
-const dataBaseURL = isLocal
-  ? `http://${location.hostname}:4000`
-  : "https://one-site.github.io";
+const dataBaseURL = ''
 
 let nestedData = {};
 let tracksById = {};
