@@ -1,0 +1,74 @@
+[
+  {
+    "series": "ROC",
+    "date": "2026-04-18",
+    "trackId": "mahoning-valley-speedway",
+    "description": "Bunny Hop 75"
+  },
+  {
+    "series": "ROC",
+    "date": "2026-05-09",
+    "trackId": "shangri-la-ii-speedway",
+    "description": "Rod Spalding Classic"
+  },
+  {
+    "series": "ROC",
+    "date": "2026-06-05",
+    "trackId": "spencer-speedway",
+    "description": "ROC Modifieds at Spencer Speedway"
+  },
+  {
+    "series": "ROC",
+    "date": "2026-06-27",
+    "trackId": "evans-mills-speedway",
+    "description": "Rocket 76er"
+  },
+  {
+    "series": "ROC",
+    "date": "2026-07-02",
+    "trackId": "lancaster-motorplex",
+    "description": "Ol' Boy Cup"
+  },
+  {
+    "series": "ROC",
+    "date": "2026-07-18",
+    "trackId": "holland-international-speedway",
+    "description": "Thunder in the Hills 100"
+  },
+  {
+    "series": "ROC",
+    "date": "2026-08-01",
+    "trackId": "mahoning-valley-speedway",
+    "description": "ROC Modifieds at Mahoning Valley"
+  },
+  {
+    "series": "ROC",
+    "date": "2026-08-15",
+    "trackId": "lancaster-motorplex",
+    "description": "ROC Modifieds at Lancaster Motorplex"
+  },
+  {
+    "series": "ROC",
+    "date": "2026-09-04",
+    "trackId": "spencer-speedway",
+    "description": "ROC Modifieds & Sportsman at Spencer"
+  },
+  {
+    "series": "ROC",
+    "date": "2026-09-12",
+    "trackId": "lake-erie-speedway",
+    "description": "Race of Champions Weekend"
+  },
+  {
+    "series": "ROC",
+    "date": "2026-10-10",
+    "trackId": "mahoning-valley-speedway",
+    "description": "ROC Modifieds at Mahoning Valley"
+  },
+  {
+    "series": "ROC",
+    "date": "2026-10-18",
+    "trackId": "shangri-la-ii-speedway",
+    "description": "ROC Modifieds at Shangri-La II"
+  }
+]

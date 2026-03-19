@@ -1,0 +1,62 @@
+[
+  {
+    "series": "MRS",
+    "date": "2026-04-18",
+    "trackId": "new-hampshire-motor-speedway",
+    "description": "6th Annual Northeast Classic"
+  },
+  {
+    "series": "MRS",
+    "date": "2026-04-19",
+    "trackId": "new-hampshire-motor-speedway",
+    "description": "6th Annual Northeast Classic"
+  },
+  {
+    "series": "MRS",
+    "date": "2026-06-12",
+    "trackId": "lee-usa-speedway",
+    "description": null
+  },
+  {
+    "series": "MRS",
+    "date": "2026-06-19",
+    "trackId": "claremont-motorsports-park",
+    "description": null
+  },
+  {
+    "series": "MRS",
+    "date": "2026-07-04",
+    "trackId": "monadnock-speedway",
+    "description": null
+  },
+  {
+    "series": "MRS",
+    "date": "2026-07-18",
+    "trackId": "white-mountain-motorsports-park",
+    "description": "White Mountain 100"
+  },
+  {
+    "series": "MRS",
+    "date": "2026-08-28",
+    "trackId": "oxford-plains-speedway",
+    "description": "Oxford 250"
+  },
+  {
+    "series": "MRS",
+    "date": "2026-09-06",
+    "trackId": "claremont-motorsports-park",
+    "description": null
+  },
+  {
+    "series": "MRS",
+    "date": "2026-09-27",
+    "trackId": "oxford-plains-speedway",
+    "description": "PASS 400"
+  },
+  {
+    "series": "MRS",
+    "date": "2026-10-09",
+    "trackId": "thompson-speedway-motorsports-park",
+    "description": null
+  }
+]

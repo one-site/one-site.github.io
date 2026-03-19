@@ -1,0 +1,65 @@
+[
+  {
+    "series": "MMTTS",
+    "date": "2026-04-11",
+    "trackId": "thompson-speedway-motorsports-park",
+    "description": "TBA",
+    "laps": 75
+  },
+  {
+    "series": "MMTTS",
+    "date": "2026-05-23",
+    "trackId": "new-london-waterford-speedbowl",
+    "description": "TBA",
+    "laps": 100
+  },
+  {
+    "series": "MMTTS",
+    "date": "2026-06-24",
+    "trackId": "thompson-speedway-motorsports-park",
+    "description": "TBA",
+    "laps": 75
+  },
+  {
+    "series": "MMTTS",
+    "date": "2026-07-15",
+    "trackId": "stafford-motor-speedway",
+    "description": "GAF Roofing Modified Masters",
+    "laps": 80
+  },
+  {
+    "series": "MMTTS",
+    "date": "2026-08-08",
+    "trackId": "star-speedway",
+    "description": "TBA",
+    "laps": 125
+  },
+  {
+    "series": "MMTTS",
+    "date": "2026-08-15",
+    "trackId": "seekonk-speedway",
+    "description": "TBA",
+    "laps": 125
+  },
+  {
+    "series": "MMTTS",
+    "date": "2026-09-05",
+    "trackId": "new-london-waterford-speedbowl",
+    "description": "TBA",
+    "laps": 100
+  },
+  {
+    "series": "MMTTS",
+    "date": "2026-09-26",
+    "trackId": "stafford-motor-speedway",
+    "description": "NAPA Auto Parts Fall Final",
+    "laps": 80
+  },
+  {
+    "series": "MMTTS",
+    "date": "2026-10-24",
+    "trackId": "seekonk-speedway",
+    "description": "USNEPower Haunted Hundred XL",
+    "laps": 125
+  }
+]
